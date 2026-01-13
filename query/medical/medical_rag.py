@@ -56,7 +56,7 @@ class MedicalRerankRAG:
             return []
 
         pairs = [(query, h.payload["text"]) for h in hits]
-        scores = self.reranker.predict(pairs)
+        scores = self.reranker.predict(pairs, batch_size=1, show_progress_bar=False)
 
         scored_hits = []
         for h, s in zip(hits, scores):
