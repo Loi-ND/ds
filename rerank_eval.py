@@ -50,7 +50,14 @@ class EvalData:
 # =========================
 
 def recall_at_k(retrieved_ids: List[str], relevant_ids: List[str]) -> float:
-    return float(any(rid in retrieved_ids for rid in relevant_ids))
+    """
+    Standard recall@k = |Retrieved ∩ Relevant| / |Relevant|
+    """
+    if not relevant_ids:
+        return 0.0
+    retrieved = set(retrieved_ids)
+    relevant = set(relevant_ids)
+    return len(retrieved & relevant) / len(relevant)
 
 
 def precision_at_k(retrieved_ids: List[str], relevant_ids: List[str]) -> float:
