@@ -1,0 +1,1696 @@
+[
+  {
+    "query": "Viên ngậm Cufo vị mật ong chanh hỗ trợ điều trị triệu chứng gì?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Viên ngậm Cufo vị mật ong chanh hỗ trợ điều trị triệu chứng trong nhiễm khuẩn miệng và họng.",
+    "retrieved_ids": [
+      1642,
+      2708,
+      1640,
+      1641,
+      2707
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp thông tin về công dụng của Viên ngậm Cufo vị mật ong chanh, vì vậy nó hoàn toàn liên quan đến câu hỏi về việc thuốc hỗ trợ điều trị triệu chứng gì.",
+    "reason_faithfulness": "Câu trả lời phản ánh đúng thông tin trong ngữ cảnh: thuốc hỗ trợ điều trị triệu chứng trong nhiễm khuẩn miệng và họng, không có thông tin sai lệch hay bổ sung không có trong ngữ cảnh.",
+    "reason_correctness": "Câu trả lời đúng về mặt y khoa: thuốc được dùng để hỗ trợ điều trị các triệu chứng của nhiễm khuẩn miệng và họng, phù hợp với thông tin trong tài liệu."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Hameron có thể sử dụng cho phụ nữ mang thai không và liều dùng cụ thể là bao nhiêu?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Hameron có thể sử dụng cho phụ nữ mang thai khi đã cân nhắc lợi ích của việc điều trị với nguy cơ có thể xảy ra. Liều dùng thông thường là 1 giọt nhỏ vào mắt, 5 - 6 lần/ngày, tuy nhiên liều dùng cụ thể có thể thay đổi tùy theo tình trạng bệnh và cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.",
+    "retrieved_ids": [
+      644,
+      643,
+      642,
+      646,
+      641
+    ],
+    "reason_context_relevance": "The provided context contains both the pregnancy safety guidance and the dosage instructions for Hameron eye drops, which are exactly the topics addressed by the answer. Hence the context is fully relevant to the question.",
+    "reason_faithfulness": "The answer accurately reflects the information in the context: it mentions that the eye drop can be used in pregnancy only after weighing benefits and risks, and it correctly states the typical dosage of 1 drop 5‑6 times daily while noting that dosage may vary and should be confirmed by a clinician.",
+    "reason_correctness": "The medical statements are correct according to the context: the drug may be used in pregnancy only after risk‑benefit assessment, and the standard dosing is 1 drop 5‑6 times per day, with the caveat that dosing should be individualized by a healthcare professional."
+  },
+  {
+    "query": "Thuốc SOSCough Ampharco có tác dụng gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.2
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc SOSCough Ampharco điều trị ho khan, ho do kích ứng.",
+    "retrieved_ids": [
+      2300,
+      2301,
+      2298,
+      2299,
+      2296
+    ],
+    "reason_context_relevance": "The provided context contains detailed information about the drug, including its therapeutic indication, which matches the answer; thus the context is fully relevant to the question.",
+    "reason_faithfulness": "The answer directly repeats the indication of SOSCough Ampharco as stated in the context (treatment of dry cough and cough due to irritation) without adding unsupported information.",
+    "reason_correctness": "The answer correctly identifies the pharmacological use of SOSCough Ampharco (treating dry cough and cough caused by irritation), which aligns with the medical information given in the context."
+  },
+  {
+    "query": "Thuốc Xoang Nhất Nhất được chỉ định để điều trị những bệnh gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.25
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc Xoang Nhất Nhất được chỉ định để điều trị nghẹt mũi, viêm mũi dị ứng, viêm xoang cấp.",
+    "retrieved_ids": [
+      466,
+      464,
+      465,
+      462,
+      461
+    ],
+    "reason_context_relevance": "The context supplied is specifically about the drug Xoang Nhất Nhất and its therapeutic indications, which directly addresses the question asked.",
+    "reason_faithfulness": "The answer repeats exactly the indications listed in the provided context (nasal congestion, allergic rhinitis, acute sinusitis) without adding or omitting information, showing full fidelity to the source.",
+    "reason_correctness": "Based on the context, the drug is indeed indicated for nasal congestion, allergic rhinitis, and acute sinusitis. The answer correctly lists these three conditions, making it medically accurate."
+  },
+  {
+    "query": "Viên nén Neo-Codion Bouchara được sử dụng để điều trị triệu chứng gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.3333333333333333
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Viên nén Neo-Codion Bouchara được sử dụng để điều trị triệu chứng ho khan.",
+    "retrieved_ids": [
+      2192,
+      2193,
+      2188,
+      2191,
+      2189
+    ],
+    "reason_context_relevance": "The context contains detailed description of Neo-Codion Bouchara, including its indication for \"ho khan\" (dry cough). Therefore the context is fully relevant to the question.",
+    "reason_faithfulness": "The answer directly states that Neo-Codion Bouchara is used to treat dry cough, which matches the information explicitly provided in the context.",
+    "reason_correctness": "Medically, Neo-Codion Bouchara (containing codeine) is indicated for the symptomatic treatment of dry cough. The answer correctly reflects this indication."
+  },
+  {
+    "query": "Thuốc Dung dịch Setbozi Stick có tác dụng gì và liều lượng khuyến cáo cho trẻ em là bao nhiêu?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 0.0,
+    "faithfulness": 1.0,
+    "correctness": 1,
+    "answer": "Dung dịch Setbozi Stick không được đề cập trong ngữ cảnh.",
+    "retrieved_ids": [
+      27614,
+      26912,
+      25577,
+      27524,
+      26007
+    ],
+    "reason_context_relevance": "The supplied context contains details about other medications but does not include any information about Setbozi Stick, making the context irrelevant to the question.",
+    "reason_faithfulness": "The answer accurately states that the drug Setbozi Stick is not mentioned in the provided context, which matches the information given.",
+    "reason_correctness": "The answer does not provide the requested information about the indication and pediatric dosage of Setbozi Stick; it merely notes the absence of such information, which does not answer the question."
+  },
+  {
+    "query": "Có những lưu ý nào cần biết trước khi sử dụng thuốc Nasal Spray 22ml Kid's Xlear?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.95,
+    "correctness": 5,
+    "answer": "Trước khi sử dụng thuốc Nasal Spray 22ml Kid's Xlear, bạn cần lưu ý:\n\n- Đọc kỹ hướng dẫn sử dụng và tham khảo thông tin về chống chỉ định, thận trọng khi sử dụng, ảnh hưởng của thuốc lên khả năng lái xe và vận hành máy móc, sử dụng thuốc cho phụ nữ trong thời kỳ mang thai và cho con bú, tương tác thuốc.\n\n- Liều dùng chỉ mang tính chất tham khảo, liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh, cần tham khảo ý kiến bác sĩ hoặc chuyên viên y tế.\n\n- Bảo quản thuốc ở nơi mát, tránh ánh sáng, nhiệt độ dưới 30⁰C, để xa tầm tay trẻ em.\n\n- Thông báo cho thầy thuốc các tác dụng không mong muốn gặp phải khi sử dụng thuốc.",
+    "retrieved_ids": [
+      955,
+      956,
+      958,
+      957,
+      954
+    ],
+    "reason_context_relevance": "The response directly addresses the question about precautions before using Nasal Spray 22ml Kid's Xlear and is fully based on the supplied context about the product.",
+    "reason_faithfulness": "The answer accurately reflects the information provided in the context, summarizing the key precautions, dosage considerations, storage instructions, and the need to report side effects. It does not introduce any information that is absent from the context, though it omits some detailed dosage instructions for specific age groups, which does not constitute a hallucination.",
+    "reason_correctness": "All medical statements in the answer are consistent with the context and are medically sound: reading the label, consulting a clinician for dosage, proper storage, and reporting adverse effects are appropriate and correct recommendations."
+  },
+  {
+    "query": "Thuốc nhỏ mắt V.Rohto Cool có tác dụng gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.2
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt V.Rohto Cool điều trị mỏi mắt, đỏ mắt, ngứa mắt.",
+    "retrieved_ids": [
+      59,
+      55,
+      58,
+      57,
+      54
+    ],
+    "reason_context_relevance": "The provided context contains detailed information about the indications of V.Rohto Cool, which is exactly what the question asks.",
+    "reason_faithfulness": "The answer directly repeats the indications listed in the context (treats eye fatigue, red eye, and itchy eye) without adding unsupported information.",
+    "reason_correctness": "The answer correctly states the therapeutic uses of V.Rohto Cool as described in the context and aligns with standard pharmacological information for this eye drop."
+  },
+  {
+    "query": "Thuốc viêm xoang Abipha Cap có tác dụng gì và cần lưu ý điều gì khi sử dụng?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 0.0,
+    "faithfulness": 0.0,
+    "correctness": 1,
+    "answer": "Thuốc Abipha Cap có tác dụng điều trị viêm xoang. Khi sử dụng thuốc, cần lưu ý đọc kỹ hướng dẫn sử dụng, tham khảo thông tin về chống chỉ định, thận trọng khi sử dụng, đặc biệt là đối với phụ nữ có thai và cho con bú, cũng như tương tác với các thuốc khác.",
+    "retrieved_ids": [
+      27,
+      25,
+      25331,
+      8671,
+      21403
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp thông tin về các thuốc Polydeson Vidipha, Pharmox, Neupencap và Belafcap, không liên quan tới Abipha Cap, nên độ liên quan của ngữ cảnh với câu trả lời là rất thấp.",
+    "reason_faithfulness": "Câu trả lời đề cập đến thuốc Abipha Cap nhưng ngữ cảnh không chứa bất kỳ thông tin nào về thuốc này; do đó câu trả lời không dựa trên nội dung đã cho và là hallucination.",
+    "reason_correctness": "Không có bằng chứng trong ngữ cảnh hoặc kiến thức y khoa chung xác nhận rằng Abipha Cap điều trị viêm xoang và các lưu ý được nêu là không được chứng minh; do đó câu trả lời không chính xác về mặt y khoa."
+  },
+  {
+    "query": "Thuốc Salbutamol 2mg Dopharma có liều dùng như thế nào cho trẻ em và người lớn, và có những triệu chứng nào khi sử dụng quá liều?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc Salbutamol 2mg Dopharma có liều dùng như sau: \n\n- Người lớn trên 18 tuổi: 4 mg (người cao tuổi và người nhạy cảm với thuốc, 2mg) ngày uống 3 - 4 lần; tối đa một liều 8 mg.\n\n- Trẻ em 2 - 6 tuổi: 1 - 2 mg/lần, ngày 3 - 4 lần.\n\n- Trẻ em từ 6 - 12 tuổi: 2 mg/lần, ngày 3 - 4 lần.\n\n- Trẻ em từ 12 - 18 tuổi: 2 - 4 mg/lần, ngày 3 - 4 lần.\n\nKhi sử dụng quá liều, các triệu chứng có thể bao gồm: \n\n- Khó chịu\n\n- Nhức đầu\n\n- Hoa mắt\n\n- Chóng mặt\n\n- Buồn nôn\n\n- Bồn chồn\n\n- Run các đầu chi\n\n- Tim đập nhanh\n\n- Loạn nhịp tim\n\n- Thay đổi huyết áp\n\n- Co giật\n\n- Hạ kali huyết.",
+    "retrieved_ids": [
+      2070,
+      2172,
+      1711,
+      1627,
+      2993
+    ],
+    "reason_context_relevance": "The response addresses the exact question about Salbutamol 2 mg Dopharma dosing for adults and children and the symptoms of overdose, which are the core topics of the supplied context.",
+    "reason_faithfulness": "The answer directly mirrors the dosage recommendations and overdose symptoms presented in the provided context, without adding extraneous or contradictory information.",
+    "reason_correctness": "The dosage details for adults and various pediatric age groups, as well as the listed overdose manifestations, are consistent with the medical information given in the context and are medically accurate."
+  },
+  {
+    "query": "Dung dịch uống Salzol Windlas Biotech được chỉ định để điều trị bệnh gì?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Dung dịch uống Salzol Windlas Biotech được chỉ định để điều trị bệnh hen, bệnh suyễn, co thắt phế quản.",
+    "retrieved_ids": [
+      2349,
+      2348,
+      2346,
+      2347,
+      2344
+    ],
+    "reason_context_relevance": "The context is entirely about the drug Salzol Windlas Biotech, its uses, dosage, and safety. The answer addresses the core question about its therapeutic indication, making the context fully relevant.",
+    "reason_faithfulness": "The answer directly repeats the indication information that appears repeatedly in the provided context (treatment of asthma, bronchospasm, and bronchial spasm). No extra or missing information is introduced.",
+    "reason_correctness": "Medically, salbutamol oral solution (Salzol) is indicated for asthma (hen), bronchial asthma (suyễn), and bronchospasm (co thắt phế quản). The answer correctly lists these indications without error."
+  },
+  {
+    "query": "Thuốc Cốm Singulair 4mg MSD có tác dụng phụ nào và người bệnh cần lưu ý gì khi dùng thuốc này trong thời kỳ mang thai?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc Cốm Singulair 4mg MSD có thể gây ra các tác dụng phụ như viêm đường hô hấp trên, rối loạn máu và hệ bạch huyết, rối loạn hệ miễn dịch, rối loạn tâm thần, chóng mặt, rối loạn hệ thần kinh, rối loạn tim, rối loạn hô hấp, ngực và trung thất, tiêu chảy, rối loạn dạ dày ruột, rối loạn gan mật, rối loạn da và mô dưới da, rối loạn cơ xương và mô liên kết, rối loạn thận và tiết niệu, rối loạn toàn thân và tình trạng tại chỗ dùng thuốc.\n\nKhi dùng thuốc này trong thời kỳ mang thai, cần lưu ý rằng chưa có nghiên cứu về Singulair ở người mang thai, chỉ dùng Singulair khi mang thai khi thật cần thiết.",
+    "retrieved_ids": [
+      2288,
+      2287,
+      1886,
+      1885,
+      5627
+    ],
+    "reason_context_relevance": "The response addresses the specific question about Singulair 4 mg side effects and pregnancy considerations, which are the central topics of the supplied context.",
+    "reason_faithfulness": "The answer directly reflects the information provided in the context, listing the side effects and pregnancy precautions exactly as described without adding unsupported statements.",
+    "reason_correctness": "The medical information is accurate: the listed adverse events correspond to those in the context, and the pregnancy guidance (use only when necessary due to lack of studies) is consistent with current recommendations for montelukast."
+  },
+  {
+    "query": "Thuốc nhỏ mũi Rhinex 0.05% Uphace có liều dùng như thế nào cho người lớn và trẻ em trên 15 tuổi, và có chống chỉ định nào cần lưu ý khi sử dụng không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.9,
+    "correctness": 5,
+    "answer": "Người lớn và trẻ em trên 15 tuổi nhỏ 1 - 2 giọt hoặc xịt 1 liều vào mỗi bên mũi, 3 - 6 giờ một lần nếu cần. Thời gian dùng không nên quá 3 - 5 ngày.\n\nChống chỉ định với người quá mẫn với thành phần thuốc, trẻ em dưới 15 tuổi, người bệnh glaucom, bệnh tim mạch, tăng huyết áp, bệnh nhân cường giáp.",
+    "retrieved_ids": [
+      380,
+      379,
+      458,
+      457,
+      378
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về cách dùng, liều lượng và các chống chỉ định của Rhinex 0.05% Uphace, hoàn toàn liên quan đến câu hỏi về liều dùng và chống chỉ định.",
+    "reason_faithfulness": "Câu trả lời phản ánh đúng thông tin về liều dùng và một số chống chỉ định được nêu trong ngữ cảnh. Không có thông tin sai lệch hoặc tự tạo, tuy nhiên không liệt kê hết tất cả các chống chỉ định (ví dụ: bệnh tim mạch, tăng huyết áp, cường giáp được đề cập nhưng các trường hợp như đái tháo đường, IMAO, trầm cảm không được nhắc tới), nên điểm không đạt 1.0.",
+    "reason_correctness": "Câu trả lời đưa ra liều dùng cho người lớn và trẻ trên 15 tuổi (1‑2 giọt hoặc 1 liều xịt mỗi bên mũi, 3‑6 giờ một lần, không quá 3‑5 ngày) và liệt kê các chống chỉ định chính (quá mẫn, trẻ dưới 15, glôcôm, bệnh tim mạch, tăng huyết áp, cường giáp) đúng theo thông tin trong ngữ cảnh. Các thông tin này là chính xác y khoa."
+  },
+  {
+    "query": "Thuốc Ultibro Breezhaler có tác dụng phụ nào thường gặp và cần lưu ý điều gì khi sử dụng cho bệnh nhân có bệnh lý tim mạch?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc Ultibro Breezhaler có thể gây ra các tác dụng phụ thường gặp như nhiễm trùng đường hô hấp trên, chóng mặt, đau đầu, và các tác dụng phụ ít gặp liên quan đến tim mạch như rung nhĩ, nhịp nhanh. Khi sử dụng thuốc cho bệnh nhân có bệnh lý tim mạch, cần lưu ý đến các tác dụng phụ này và theo dõi chặt chẽ tình trạng bệnh nhân. Nếu gặp bất kỳ tác dụng phụ nào, nên ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.",
+    "retrieved_ids": [
+      2444,
+      717,
+      2442,
+      715,
+      2060
+    ],
+    "reason_context_relevance": "The context supplied details the side‑effect profile of Ultibro Breezhaler, which directly addresses the question about typical adverse events and special considerations for patients with cardiovascular disease.",
+    "reason_faithfulness": "The answer accurately reflects the adverse drug reactions listed in the provided context, mentioning both common side effects (upper respiratory infections, dizziness, headache) and less common cardiovascular effects (atrial fibrillation, tachycardia). No information contradicts the context.",
+    "reason_correctness": "The medical information is correct: the listed common and cardiovascular adverse events are consistent with known ADRs for Ultibro Breezhaler, and the recommendation to monitor patients with heart disease and to discontinue the drug if adverse effects occur is appropriate clinical guidance."
+  },
+  {
+    "query": "Liều dùng thuốc nhỏ mắt Melevo 5mg/ml trong 7 ngày được hướng dẫn như thế nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Ngày thứ 1 và ngày thứ 2: Nhỏ 1-2 giọt x 2 giờ/ lần, nhỏ không quá 8 lần/ ngày. Ngày thứ 3 đến ngày thứ 7: Nhỏ 1-2 giọt x 4 giờ/ lần, nhỏ không quá 4 lần/ ngày.",
+    "retrieved_ids": [
+      1063,
+      1062,
+      1064,
+      1065,
+      1061
+    ],
+    "reason_context_relevance": "Ngữ cảnh chứa thông tin chi tiết về liều dùng thuốc nhỏ mắt Melevo trong 7 ngày, vì vậy nó hoàn toàn liên quan và cung cấp đủ dữ liệu để trả lời câu hỏi.",
+    "reason_faithfulness": "Câu trả lời sao chép nguyên văn lịch dùng thuốc được nêu trong ngữ cảnh (ngày 1‑2: 1‑2 giọt mỗi 2 giờ, tối đa 8 lần/ngày; ngày 3‑7: 1‑2 giọt mỗi 4 giờ, tối đa 4 lần/ngày), nên không có hiện tượng hallucination.",
+    "reason_correctness": "Thông tin liều dùng được trích từ hướng dẫn sử dụng chính thức của Melevo 5 mg/ml, đáp ứng đúng yêu cầu về liều trong 7 ngày. Không có sai sót y khoa trong câu trả lời."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Moxieye 50mg có tác dụng gì trong điều trị nhiễm khuẩn mắt và những tác dụng phụ nào có thể xảy ra khi sử dụng thuốc này?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Moxieye 50mg được sử dụng để điều trị nhiễm khuẩn mắt, viêm loét giác mạc và có thể gây ra các tác dụng phụ như viêm kết mạc, giảm thị lực, khô mắt, viêm giác mạc, khó chịu ở mắt, cương tụ, đau mắt, ngứa mắt, xuất huyết chảy nước mắt.",
+    "retrieved_ids": [
+      794,
+      792,
+      796,
+      793,
+      795
+    ],
+    "reason_context_relevance": "The supplied context contains detailed description of Moxieye's indications and side‑effects, which are exactly what the question asks for. Therefore the context is fully relevant to the answer.",
+    "reason_faithfulness": "The answer directly reflects the information provided in the context: it states the indicated use (treatment of bacterial eye infection and corneal ulcer) and lists ocular adverse effects that are explicitly mentioned in the context. No information is added that contradicts the source.",
+    "reason_correctness": "Medically, moxifloxacin eye drops are used for bacterial conjunctivitis and keratitis, and the listed ocular side‑effects (conjunctivitis, reduced vision, dry eye, keratitis, discomfort, photophobia, pain, itching, hemorrhage, tearing) are accurate and consistent with known safety data. Hence the answer is correct."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Metodex Merap có tác dụng gì đối với viêm nhiễm ở mắt và những tác dụng phụ nào có thể xảy ra khi sử dụng thuốc này lâu dài?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 0.95,
+    "faithfulness": 0.9,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Metodex Merap có tác dụng điều trị viêm, nhiễm khuẩn ở mắt. Tuy nhiên, khi sử dụng lâu dài, thuốc có thể gây ra các tác dụng phụ như tăng nhãn áp, tổn thương thần kinh thị giác, hình thành đục thủy tinh thể dưới bao sau, chậm liền vết thương, và nhiễm khuẩn thứ phát.",
+    "retrieved_ids": [
+      1082,
+      1083,
+      1080,
+      1084,
+      1079
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp đầy đủ thông tin về Metodex Merap, bao gồm chỉ định và tác dụng phụ; câu trả lời sử dụng những thông tin này để trả lời câu hỏi, nên mức độ liên quan rất cao.",
+    "reason_faithfulness": "Câu trả lời phản ánh đúng các thông tin chính trong ngữ cảnh về công dụng của Metodex Merap (điều trị viêm, nhiễm khuẩn mắt) và các tác dụng phụ khi dùng lâu dài (tăng nhãn áp, tổn thương thần kinh thị giác, đục thủy tinh thể, chậm liền vết thương, nhiễm khuẩn thứ phát). Không có thông tin sai lệch hoặc tự tạo, tuy nhiên không đề cập tới một số tác dụng phụ khác như phản ứng dị ứng địa phương, vì vậy điểm không phải 1.0.",
+    "reason_correctness": "Câu trả lời đúng về mặt y khoa: Metodex Merap là thuốc kết hợp kháng sinh (tobramycin) và steroid (dexamethasone) dùng để điều trị viêm và nhiễm khuẩn mắt, và các tác dụng phụ được liệt kê (tăng nhãn áp, nguy cơ glaucoma, đục thủy tinh thể, chậm lành vết thương, nhiễm khuẩn thứ phát) là chính xác theo thông tin trong ngữ cảnh."
+  },
+  {
+    "query": "Những tác dụng phụ nào thường gặp khi sử dụng thuốc nhỏ mắt Vigamox Alcon?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Những tác dụng phụ thường gặp khi sử dụng thuốc nhỏ mắt Vigamox Alcon bao gồm: đau mắt, kích ứng mắt.",
+    "retrieved_ids": [
+      537,
+      393,
+      1473,
+      4,
+      669
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về tần suất và các tác dụng phụ của thuốc Vigamox Alcon, vì vậy nó hoàn toàn liên quan đến câu hỏi về tác dụng phụ thường gặp.",
+    "reason_faithfulness": "Câu trả lời chỉ liệt kê các tác dụng phụ thường gặp (đau mắt, kích ứng mắt) như được nêu trong ngữ cảnh cho Vigamox Alcon, không có thông tin sai lệch hay bổ sung không có trong ngữ cảnh.",
+    "reason_correctness": "Câu trả lời đúng về mặt y khoa: các tác dụng phụ thường gặp của Vigamox Alcon là đau mắt và kích ứng mắt, đúng với thông tin trong tài liệu tham khảo."
+  },
+  {
+    "query": "Những tác dụng phụ nào có thể gặp phải khi sử dụng thuốc Viên nén Paracetamol 500mg Thephaco?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.9,
+    "correctness": 4,
+    "answer": "Khi sử dụng thuốc Viên nén Paracetamol 500mg Thephaco, bạn có thể gặp các tác dụng không mong muốn như: ban da, buồn nôn, nôn, loạn tạo máu, thiếu máu, bệnh thận, độc tính thận khi lạm dụng dài ngày.",
+    "retrieved_ids": [
+      1707,
+      1706,
+      2198,
+      1705,
+      30091
+    ],
+    "reason_context_relevance": "The context directly describes the adverse drug reactions of Paracetamol 500 mg Thephaco, which is exactly what the question asks for. Therefore the context is fully relevant.",
+    "reason_faithfulness": "The answer lists side effects that are present in the provided context (skin rash, nausea/vomiting, hematologic disturbances, renal toxicity). It does not introduce information not found in the context, so it is faithful, though it omits some rare severe reactions mentioned in the context.",
+    "reason_correctness": "The listed adverse effects are medically accurate for paracetamol and match the common and less‑common reactions described. However, the answer does not mention the rare but serious skin reactions (e.g., Stevens‑Johnson syndrome, TEN, Lyell) and other hypersensitivity manifestations that are also part of the context, so the answer is not completely exhaustive."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Diquas Santen được sử dụng để điều trị gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.25
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Diquas Santen được sử dụng để điều trị khô mắt.",
+    "retrieved_ids": [
+      862,
+      860,
+      858,
+      857,
+      861
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về chỉ định, cơ chế hoạt động và các thông tin liên quan đến thuốc Diquas Santen, vì vậy nó hoàn toàn liên quan đến câu hỏi về việc thuốc này được dùng để điều trị gì.",
+    "reason_faithfulness": "Câu trả lời \"được sử dụng để điều trị khô mắt\" hoàn toàn dựa trên thông tin trong ngữ cảnh, không có thông tin nào được thêm vào hoặc thiếu sót.",
+    "reason_correctness": "Thuốc nhỏ mắt Diquas (natri diquafosol) được chỉ định và sử dụng trong điều trị bệnh khô mắt, điều này là thông tin y khoa chính xác và được xác nhận trong tài liệu."
+  },
+  {
+    "query": "Viên nén Montemax 10mg Atco được sử dụng để điều trị bệnh gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.3333333333333333
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Viên nén Montemax 10mg Atco được sử dụng để điều trị bệnh hen phế quản mãn tính.",
+    "retrieved_ids": [
+      1653,
+      1654,
+      1649,
+      1651,
+      1650
+    ],
+    "reason_context_relevance": "The provided context contains explicit information about the drug’s indication (chronic bronchial asthma), making it fully relevant to the question.",
+    "reason_faithfulness": "The answer directly repeats the indication stated in the context that Montemax 10mg Atco is used to treat chronic asthma, without adding unsupported information.",
+    "reason_correctness": "Montelukast (the active ingredient of Montemax) is medically approved for the prevention and treatment of chronic asthma; thus the answer is medically accurate."
+  },
+  {
+    "query": "Thuốc bột uống Mitux E 100mg DHG Pharma được chỉ định trong những trường hợp nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc bột uống Mitux E 100mg DHG Pharma được chỉ định trong các trường hợp sau: \n\n- Viêm mũi\n- Viêm xoang\n- Dùng làm thuốc tiêu nhầy trong các bệnh lý đường hô hấp có đờm nhầy quánh như: viêm phế quản, viêm khí phế quản, viêm phế quản phổi cấp và mãn tính.",
+    "retrieved_ids": [
+      1985,
+      1987,
+      1981,
+      1979,
+      1986
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về chỉ định của thuốc, và câu trả lời sử dụng đúng những thông tin này để trả lời câu hỏi. Do đó ngữ cảnh có mức độ liên quan và cung cấp đầy đủ thông tin cần thiết.",
+    "reason_faithfulness": "Câu trả lời liệt kê đầy đủ các chỉ định của thuốc Mitux E 100mg như trong ngữ cảnh: viêm mũi, viêm xoang và các bệnh lý đường hô hấp có đờm nhầy quánh (viêm phế quản, viêm khí phế quản, viêm phế quản phổi cấp và mãn tính). Không có thông tin nào được thêm vào hoặc thiếu sót, nên đáp án hoàn toàn dựa trên ngữ cảnh.",
+    "reason_correctness": "Các chỉ định được nêu trong câu trả lời là chính xác theo kiến thức y khoa và phù hợp với mô tả trong ngữ cảnh. Không có lỗi y học hoặc thông tin sai lệch."
+  },
+  {
+    "query": "Những tác dụng phụ nào có thể xảy ra khi sử dụng thuốc nhỏ mắt Ciloxan Alcon?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Khi sử dụng thuốc nhỏ mắt Ciloxan Alcon, một số tác dụng phụ có thể xảy ra như cảm giác nóng rát, khó chịu ở mắt, tinh thể trắng đọng ở vết loét, xung huyết kết mạc, đóng vảy bờ mi, cảm giác cộm mắt, ngứa, viêm giác mạc, nhuộm màu giác mạc, bệnh giác mạc.",
+    "retrieved_ids": [
+      1545,
+      4,
+      1473,
+      1544,
+      669
+    ],
+    "reason_context_relevance": "The context supplied contains detailed information about the side effects of Ciloxan, which is precisely the question asked. Therefore the context is fully relevant to the answer.",
+    "reason_faithfulness": "The answer reproduces the adverse effects for Ciloxan exactly as described in the context (burning sensation, ocular discomfort, white precipitate at ulcer site, conjunctival hyperemia, eyelid crusting, foreign body sensation, itching, keratitis, corneal discoloration, corneal disease). No information outside the provided context is added.",
+    "reason_correctness": "The listed side effects correspond to known ocular adverse reactions of ciprofloxacin eye drops (Ciloxan), including common (burning, irritation, hyperemia) and less common (corneal staining, keratitis) effects. The answer is medically accurate."
+  },
+  {
+    "query": "Có tác dụng phụ nào được ghi nhận khi sử dụng thuốc Siro HoAstex-S 90ml OPC không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Chưa ghi nhận được báo cáo về phản ứng có hại của thuốc Siro HoAstex-S 90ml OPC.",
+    "retrieved_ids": [
+      2408,
+      1970,
+      2407,
+      2498,
+      2497
+    ],
+    "reason_context_relevance": "The context provides details about the drug's adverse effects, and the answer addresses the exact question about recorded side effects, making the context fully relevant.",
+    "reason_faithfulness": "The answer directly reflects the information in the context, which states that no harmful reactions or adverse effects have been reported for Siro HoAstex-S 90ml OPC.",
+    "reason_correctness": "Based on the provided context, there are indeed no reported adverse reactions for this medication, so the answer is medically correct and complete."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Daiticol Dược 3-2 được chỉ định để điều trị những tình trạng nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.25
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Daiticol Dược 3-2 được chỉ định để điều trị đỏ mắt, ngứa mắt, xốn mắt do tiếp xúc với môi trường bị ô nhiễm, mỏi mắt, cay mắt do đọc nhiều, làm việc nhiều trên máy vi tính và làm dịu mắt.",
+    "retrieved_ids": [
+      842,
+      844,
+      843,
+      840,
+      839
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp đầy đủ thông tin về chỉ định của thuốc Daiticol, vì vậy nó hoàn toàn liên quan đến câu hỏi.",
+    "reason_faithfulness": "Câu trả lời chỉ liệt kê các chỉ định được nêu trong ngữ cảnh (đỏ mắt, ngứa mắt, xốn mắt do ô nhiễm, mỏi mắt, cay mắt do đọc nhiều, làm việc trên máy tính và làm dịu mắt) mà không thêm thông tin không có trong ngữ cảnh.",
+    "reason_correctness": "Các chỉ định được liệt kê (đỏ mắt, ngứa mắt, xốn mắt do tiếp xúc với môi trường ô nhiễm, mỏi mắt, cay mắt do đọc nhiều, làm việc trên máy tính và làm dịu mắt) là đúng theo thông tin y khoa về thành phần diphenhydramine và kẽm sulfat trong thuốc, phù hợp với các tình trạng viêm kết mạc và kích ứng mắt."
+  },
+  {
+    "query": "Siro Naomy TW3 được chỉ định để điều trị những triệu chứng gì?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Siro Naomy TW3 được chỉ định để điều trị các triệu chứng như ho do cảm lạnh, cảm cúm, ho khan, ho dị ứng, sổ mũi và nghẹt mũi.",
+    "retrieved_ids": [
+      2385,
+      2343,
+      2384,
+      2341,
+      2338
+    ],
+    "reason_context_relevance": "The context supplied is specifically about the therapeutic indications of Siro Naomy TW3, which directly answers the question about which symptoms it is indicated for.",
+    "reason_faithfulness": "The answer repeats exactly the list of indications that appear in the provided context (ho do cảm lạnh, cảm cúm, ho khan, ho dị ứng, sổ mũi, nghẹt mũi), showing full alignment with the source.",
+    "reason_correctness": "The answer correctly enumerates all symptoms for which Naomy TW3 is indicated according to the context and consistent with its pharmacological profile; no incorrect or missing information is present."
+  },
+  {
+    "query": "Thuốc Hỗn dịch nhỏ mắt Flumetholon 0.1% Santen có tác dụng gì trong điều trị các bệnh viêm mắt và những tác dụng phụ nào có thể xảy ra khi sử dụng thuốc này?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.96,
+    "correctness": 5,
+    "answer": "Thuốc Hỗn dịch nhỏ mắt Flumetholon 0.1% Santen được sử dụng để điều trị các bệnh viêm phía ngoài mắt, bao gồm viêm kết mạc, viêm mống mắt - thể mi, và các tình trạng viêm khác ở mắt. Tuy nhiên, khi sử dụng thuốc này, người bệnh có thể gặp phải một số tác dụng phụ như tăng áp lực nội nhãn, kích ứng mắt, xung huyết kết mạc, và một số phản ứng phụ khác như quá mẫn cảm, viêm bờ mi, và phát ban. Để đảm bảo an toàn, người bệnh nên tuân thủ hướng dẫn sử dụng và tham khảo ý kiến của bác sĩ trước khi dùng thuốc.",
+    "retrieved_ids": [
+      944,
+      945,
+      942,
+      836,
+      837
+    ],
+    "reason_context_relevance": "The response directly addresses the question using the supplied context about the drug's indications and side‑effects, making the context fully relevant to the answer.",
+    "reason_faithfulness": "The answer accurately reflects the information provided in the context, summarizing the indicated uses of Flumetholon 0.1% and the listed adverse effects without introducing contradictory or unsupported statements.",
+    "reason_correctness": "The medical content is correct according to the context: Flumetholon 0.1% is used for outer eye inflammation (e.g., conjunctivitis, blepharitis) and the mentioned adverse effects (increased intra‑ocular pressure, irritation, conjunctival hemorrhage, hypersensitivity reactions) are all listed in the source material."
+  },
+  {
+    "query": "Thuốc Dung dịch uống Inflagic 5ml CPC1HN có chỉ định điều trị gì và có những lưu ý nào cần biết trước khi sử dụng không?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.0,
+    "correctness": 1,
+    "answer": "Dung dịch uống Inflagic 5ml CPC1HN không được đề cập trong ngữ cảnh, vì vậy không có thông tin về chỉ định điều trị và lưu ý khi sử dụng thuốc này.",
+    "retrieved_ids": [
+      7275,
+      17417,
+      8953,
+      7812,
+      26300
+    ],
+    "reason_context_relevance": "The context is directly relevant to the question, containing the drug's indication (treatment of constipation) and numerous usage warnings that the question asks for.",
+    "reason_faithfulness": "The answer states that the drug is not mentioned in the context, but the provided context clearly describes Inflagic 5ml CPC1HN (referred to as Companity CPC1HN) as a treatment for constipation with detailed cautions. Therefore, the answer does not faithfully reflect the given context.",
+    "reason_correctness": "The answer is medically incorrect because it fails to provide the correct indication (constipation) and the associated precautions that are present in the context. It incorrectly claims no information is available."
+  },
+  {
+    "query": "Dung dịch vô trùng Natri Clorid 0.9% Dược 3-2 được sử dụng để làm gì?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Dung dịch vô trùng Natri Clorid 0.9% Dược 3-2 được sử dụng để rửa vết thương hở và kín, súc miệng.",
+    "retrieved_ids": [
+      1233,
+      1232,
+      1231,
+      110,
+      1230
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp thông tin về công dụng của dung dịch, liên quan trực tiếp tới câu hỏi.",
+    "reason_faithfulness": "Câu trả lời phản ánh đúng thông tin trong ngữ cảnh, không thêm hay thiếu thông tin.",
+    "reason_correctness": "Công dụng được nêu là rửa vết thương hở và kín, súc miệng, đúng với chỉ định y tế của dung dịch Natri Clorid 0,9%."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Tobrex Alcon được chỉ định điều trị nhiễm khuẩn ở mắt như thế nào và liều dùng cụ thể cho người lớn và trẻ em là gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Tobrex Alcon được chỉ định điều trị nhiễm khuẩn ở mắt. Liều dùng cho người lớn và trẻ em trên 1 tuổi là nhỏ 1-2 giọt vào túi kết mạc, mỗi 4 giờ một lần, điều trị trong 7 ngày. Đối với nhiễm khuẩn mức độ nặng, nhỏ 2 giọt vào mắt bị bệnh mỗi giờ.",
+    "retrieved_ids": [
+      583,
+      582,
+      678,
+      584,
+      391
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về cách dùng và liều lượng của Tobrex, và câu trả lời sử dụng đúng những thông tin này, nên ngữ cảnh hoàn toàn liên quan tới câu trả lời.",
+    "reason_faithfulness": "Câu trả lời phản ánh chính xác các thông tin về chỉ định và liều dùng của thuốc Tobrex Alcon được nêu trong ngữ cảnh, không có thông tin sai lệch hay thiếu sót đáng kể.",
+    "reason_correctness": "Câu trả lời đưa ra liều dùng cho người lớn và trẻ em trên 1 tuổi (1‑2 giọt mỗi 4 giờ trong 7 ngày cho mức nhẹ‑trung bình, 2 giọt mỗi giờ cho mức nặng) đúng với khuyến cáo y tế trong ngữ cảnh, không có lỗi y khoa."
+  },
+  {
+    "query": "Thuốc Bralcib 3mg Atco được sử dụng để điều trị gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.3333333333333333
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc Bralcib 3mg Atco được sử dụng để điều trị các nhiễm khuẩn phần ngoài mắt do vi khuẩn nhạy cảm.",
+    "retrieved_ids": [
+      1348,
+      1346,
+      1343,
+      1344,
+      1345
+    ],
+    "reason_context_relevance": "The provided context contains detailed information about the drug's indication, composition, and usage, which is exactly what the question asks. Therefore the context is fully relevant to the answer.",
+    "reason_faithfulness": "The answer directly repeats the indication stated in the context: Bralcib 3mg Atco is used to treat external eye infections caused by susceptible bacteria. No information is added or omitted that contradicts the source.",
+    "reason_correctness": "The answer correctly identifies the therapeutic use of Bralcib 3mg Atco as treatment for external eye bacterial infections, matching the medical information in the context and standard pharmacological knowledge."
+  },
+  {
+    "query": "Liều dùng thuốc mỡ Oracortia 0,1% Thai Nakorn Patana là gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Bôi một lượng nhỏ lên vùng da bị tổn thương (không chà xát) để tạo ra một màng mỏng. Dùng Oracortia lúc đi ngủ để cho thuốc steroid tiếp xúc với vùng tổn thương suốt đêm. Nếu cần thiết, có thể dùng 2 - 3 lần/ngày, nên dùng sau khi ăn.",
+    "retrieved_ids": [
+      1303,
+      1249,
+      1248,
+      1302,
+      1247
+    ],
+    "reason_context_relevance": "The context supplied is specifically about the dosage of Oracortia 0.1% and the answer addresses that exact question, making the context fully relevant.",
+    "reason_faithfulness": "The answer directly repeats the dosage instructions from the provided context without adding unsupported information, showing complete alignment with the source.",
+    "reason_correctness": "The dosage guidance (apply a small amount to the lesion, do not rub, can be used 2‑3 times daily, preferably at night and after meals) matches the information in the context and reflects appropriate medical practice for a topical corticosteroid; no incorrect or harmful statements are present."
+  },
+  {
+    "query": "Thuốc viêm xoang Abipha Cap có thành phần gì và cách sử dụng liều lượng như thế nào để điều trị viêm xoang và nghẹt mũi?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.9,
+    "correctness": 4,
+    "answer": "Thuốc viêm xoang Abipha Cap có thành phần chính bao gồm Bạch chỉ, Thương nhĩ tử, Phòng phong, Hoàng kỳ, Tân di hoa và Bạc hà. Cách sử dụng liều lượng như sau: uống 2-3 viên/lần, ngày uống 3 lần. Trường hợp nặng có thể dùng gấp đôi liều trên, tuy nhiên nên tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.",
+    "retrieved_ids": [
+      61,
+      60,
+      64,
+      63,
+      62
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp thông tin về thành phần và cách dùng của thuốc Abipha Cap, và câu trả lời sử dụng trực tiếp những thông tin này, vì vậy mức độ liên quan là tối đa.",
+    "reason_faithfulness": "Câu trả lời phản ánh đúng các thành phần chính và liều dùng được nêu trong ngữ cảnh, tuy nhiên không cung cấp chi tiết liều lượng (mg) của từng thành phần như trong ngữ cảnh, nên không hoàn toàn trung thực.",
+    "reason_correctness": "Thông tin về các thành phần và liều dùng cơ bản là đúng và phù hợp với ngữ cảnh, nhưng câu trả lời thiếu chi tiết liều lượng (mg) của từng thành phần, khiến câu trả lời không hoàn toàn đầy đủ so với yêu cầu của câu hỏi."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Systane Ultra Alcon có cách dùng như thế nào và có tác dụng phụ nào cần lưu ý khi sử dụng không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Systane Ultra Alcon được sử dụng để giảm các chứng rát và kích ứng do khô mắt. Cách dùng: lắc kỹ, nhỏ 1-2 giọt vào mắt bị bệnh tùy theo nhu cầu, tránh chạm đầu ống nhỏ giọt vào mắt. Tác dụng phụ có thể gặp phải khi sử dụng thuốc này bao gồm các phản ứng phụ không mong muốn, tuy nhiên chưa có báo cáo cụ thể về các tác dụng phụ thường gặp hoặc ít gặp. Nếu gặp phải bất kỳ tác dụng phụ nào, nên ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.",
+    "retrieved_ids": [
+      307,
+      475,
+      476,
+      308,
+      309
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về cách dùng và các lưu ý về tác dụng phụ của thuốc Systane Ultra, đúng với yêu cầu câu hỏi. Do đó ngữ cảnh có mức độ liên quan và đầy đủ cao nhất.",
+    "reason_faithfulness": "Câu trả lời chỉ dựa trên các thông tin có trong ngữ cảnh: mô tả cách dùng (lắc kỹ, nhỏ 1‑2 giọt, tránh chạm đầu ống) và thông báo không có báo cáo cụ thể về tác dụng phụ. Không có thông tin nào được thêm vào hoặc sai lệch, nên câu trả lời hoàn toàn trung thực với ngữ cảnh.",
+    "reason_correctness": "Câu trả lời đưa ra hướng dẫn dùng thuốc chính xác (lắc, 1‑2 giọt, không chạm đầu ống) và mô tả đúng rằng chưa có báo cáo cụ thể về tác dụng phụ, đồng thời khuyến cáo ngưng dùng và tham khảo bác sĩ nếu có bất kỳ phản ứng nào. Thông tin này phù hợp và không có lỗi y khoa."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Daigaku Santen có những tác dụng phụ nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 4,
+    "answer": "Đỏ mắt, ngứa mắt, sưng mắt.",
+    "retrieved_ids": [
+      130,
+      129,
+      861,
+      441,
+      1437
+    ],
+    "reason_context_relevance": "The context is specifically about the adverse effects of Daigaku Santen eye drops, making it fully relevant to the question.",
+    "reason_faithfulness": "The answer only mentions side effects (đỏ mắt, ngứa mắt, sưng mắt) that are explicitly listed in the provided context, without adding any information not present in the context.",
+    "reason_correctness": "The side effects given are medically correct and are indeed reported for Daigaku Santen. However, the answer is not exhaustive—it omits other possible adverse effects mentioned in the context, so it is not fully comprehensive."
+  },
+  {
+    "query": "Thuốc ho Prospan Forte Engelhard có thành phần gì và có chống chỉ định cho những trường hợp nào không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 3,
+    "answer": "Thuốc ho Prospan Forte Engelhard có thành phần chính là chiết xuất cao khô lá thường xuân 35mg/5ml. Thuốc này chống chỉ định với những trường hợp bất dung nạp fructose.",
+    "retrieved_ids": [
+      2089,
+      2167,
+      2086,
+      2155,
+      2176
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về thành phần và các trường hợp chống chỉ định của thuốc Prospan Forte Engelhard, vì vậy nó hoàn toàn liên quan đến câu hỏi.",
+    "reason_faithfulness": "Câu trả lời dựa hoàn toàn trên thông tin có trong ngữ cảnh: thành phần chiết xuất cao khô lá thường xuân 35 mg/5 ml và chống chỉ định đối với bất dung nạp fructose. Không có thông tin nào được bịa ra.",
+    "reason_correctness": "Thành phần được nêu đúng, nhưng câu trả lời chỉ liệt kê một trong các chống chỉ định (bất dung nạp fructose) trong khi ngữ cảnh còn đề cập đến các chống chỉ định khác như mẫn cảm với thành phần, thai kỳ và cho con bú. Do đó câu trả lời chưa đầy đủ."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Telodrop Hanlim có chỉ định điều trị cho những ai và cần lưu ý gì khi sử dụng thuốc này cho trẻ em?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.96,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Telodrop Hanlim được chỉ định điều trị chứng khô mắt, cụ thể là hội chứng Sjogren và các cảm giác khó chịu do khô mắt gây ra. Tuy nhiên, khi sử dụng thuốc này cho trẻ em, cần thận trọng vì hiện chưa có dữ liệu về sử dụng sản phẩm cho trẻ em và trẻ vị thành niên.",
+    "retrieved_ids": [
+      386,
+      385,
+      384,
+      388,
+      1178
+    ],
+    "reason_context_relevance": "The answer directly addresses the question using the relevant details from the context about Telodrop's indications and pediatric precautions, showing full relevance.",
+    "reason_faithfulness": "The answer accurately reflects the information in the provided context, stating the indicated use for dry eye (including Sjögren syndrome) and correctly noting the lack of data and need for caution when using Telodrop in children. No extraneous or contradictory information is introduced.",
+    "reason_correctness": "Medically, Telodrop is indicated for dry eye conditions such as Sjögren syndrome and to alleviate discomfort, and the recommendation to be cautious in children due to insufficient safety data aligns with standard practice. The answer is therefore fully correct."
+  },
+  {
+    "query": "Những tác dụng phụ nào có thể xảy ra khi sử dụng viên nhai Montemax 5mg Atco?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 3,
+    "answer": "Những tác dụng phụ có thể xảy ra khi sử dụng viên nhai Montemax 5mg Atco bao gồm: \n\n- Trầm cảm\n- Thay đổi hành vi (kích động, lo lắng)\n- Tăng bạch cầu ái toan, viêm mạch máu với u hạt tăng bạch cầu ái toan, viêm đa tuyến (hội chứng Churg - Strauss)\n- Đau tai, viêm tai giữa\n- Cận thị, viêm kết mạc\n- Tiêu chảy\n- Rối loạn tiêu hóa\n- Sốt\n- Nhiễm virus, nhiễm trùng răng\n- Tăng nồng độ transaminase huyết thanh (ALT, AST)\n- Nhức đầu\n- Nhiễm trùng đường hô hấp trên, ho, viêm phế quản cấp, cúm, viêm thanh quản, viêm họng, viêm họng hạt, viêm xoang, đau đầu do xoang, viêm phổi\n- Phát ban, viêm da dị ứng, chàm, nhiễm trùng da, mày đay\n- Chảy máu cam",
+    "retrieved_ids": [
+      1826,
+      1653,
+      1824,
+      1825,
+      1823
+    ],
+    "reason_context_relevance": "The question asks about side effects of Montemax 5mg, and the answer focuses entirely on that topic, matching the context.",
+    "reason_faithfulness": "The answer directly lists side effects that are present in the provided context, without adding information that is absent from the context.",
+    "reason_correctness": "Most of the listed adverse effects (depression, behavior changes, liver enzyme elevation, respiratory infections, skin reactions, etc.) are consistent with known Montelukast side effects. However, some items such as myopia, conjunctivitis, and gum bleeding are not commonly reported as drug-related adverse events, reducing the overall medical accuracy."
+  },
+  {
+    "query": "Dung dịch vô trùng Natri Clorid 0,9% Dược 3-2 có tác dụng phụ nào không và có cần lưu ý gì khi sử dụng thuốc này không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Dung dịch vô trùng Natri Clorid 0,9% Dược 3-2 chưa có báo cáo về tác dụng phụ. Tuy nhiên, khi gặp bất kỳ dấu hiệu bất thường nào, bạn nên ngưng sử dụng và thông báo cho bác sĩ hoặc đến cơ sở y tế gần nhất để được xử trí kịp thời.",
+    "retrieved_ids": [
+      1233,
+      1232,
+      112,
+      1231,
+      110
+    ],
+    "reason_context_relevance": "The context supplied contains detailed information about the drug's side effects (or lack thereof) and usage precautions, which are exactly what the question asks about, making the context fully relevant.",
+    "reason_faithfulness": "The answer directly reflects the information in the provided context, stating that no side effects have been reported and advising to stop use and seek medical help if any abnormal signs appear, which matches the context.",
+    "reason_correctness": "The answer correctly reports that there are no documented adverse effects for the solution and appropriately advises discontinuation and medical consultation if any unexpected symptoms occur, aligning with standard medical guidance for such products."
+  },
+  {
+    "query": "Thuốc Sunapred 20mg Donaipharm có tác dụng gì và cần lưu ý gì khi sử dụng cho phụ nữ mang thai và cho con bú?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc Sunapred 20mg Donaipharm có tác dụng chống viêm, chống dị ứng và ức chế miễn dịch. Khi sử dụng cho phụ nữ mang thai, cần cân nhắc lợi ích và rủi ro, vì thuốc có thể gây giảm cân ở trẻ sơ sinh và giảm sản thượng thận. Đối với phụ nữ cho con bú, prednisolon tiết vào sữa mẹ với lượng nhỏ, nhưng vẫn cần cẩn thận khi dùng thuốc.",
+    "retrieved_ids": [
+      518,
+      516,
+      520,
+      519,
+      517
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp đầy đủ thông tin về công dụng và các lưu ý cho phụ nữ mang thai và cho con bú, và câu trả lời sử dụng đúng những thông tin này để trả lời câu hỏi, vì vậy mức độ liên quan là tối đa.",
+    "reason_faithfulness": "Câu trả lời chỉ nêu các thông tin có trong ngữ cảnh: tác dụng chống viêm, chống dị ứng, ức chế miễn dịch; các lưu ý khi dùng cho phụ nữ mang thai (cân nhắc lợi ích‑rủi ro, có thể gây giảm cân và suy tuyến thượng thận ở trẻ sơ sinh); và khi cho con bú (prednisolon chỉ có lượng nhỏ trong sữa mẹ, cần thận trọng). Không có thông tin nào được thêm vào hoặc sai lệch so với ngữ cảnh.",
+    "reason_correctness": "Thông tin y khoa trong câu trả lời là chính xác: Sunapred (prednisolon) là thuốc chống viêm, chống dị ứng và ức chế miễn dịch; trong thai kỳ cần cân nhắc vì có thể ảnh hưởng đến cân nặng và chức năng thượng thận của trẻ sơ sinh; trong thời gian cho con bú lượng thuốc trong sữa mẹ rất thấp (<1% liều dùng) nhưng vẫn cần thận trọng. Các khuyến cáo này phù hợp với hướng dẫn lâm sàng và nội dung ngữ cảnh."
+  },
+  {
+    "query": "Thuốc xịt mũi Xoangspray Gonsa được chỉ định cho những triệu chứng nào và cách sử dụng thuốc này là gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc xịt mũi Xoangspray Gonsa được chỉ định cho các triệu chứng như viêm xoang, viêm mũi dị ứng, với các biểu hiện như đau nhức vùng đầu, chảy nước mũi, tắc nghẹt mũi, ngứa mũi, hắt hơi, ho... Cách sử dụng thuốc này là xịt 2-3 nhịp xịt/lần mỗi bên mũi, 3-4 lần/ngày hoặc khi cảm thấy cần thiết, và không dùng quá 4 tuần sau khi mở nắp.",
+    "retrieved_ids": [
+      709,
+      708,
+      710,
+      712,
+      707
+    ],
+    "reason_context_relevance": "The question asks about the indications and usage of Xoangspray Gonsa, and the answer directly addresses these points using the information supplied in the context, making the context fully relevant.",
+    "reason_faithfulness": "The answer repeats the indications (viêm xoang, viêm mũi dị ứng) and the dosage instructions (2‑3 nhịp xịt mỗi bên mũi, 3‑4 lần/ngày, không dùng quá 4 tuần) exactly as described in the provided context, without adding unsupported information.",
+    "reason_correctness": "The medical content is accurate: the drug is indicated for sinusitis and allergic rhinitis with the listed symptoms, and the dosing regimen matches the context. No incorrect or dangerous statements are present."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Tears Naturale II Alcon có tác dụng gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Tears Naturale II Alcon có tác dụng giảm tiết nước mắt hoặc dịch nhầy, thường được sử dụng trong các trường hợp khô mắt, làm giảm tạm thời cảm giác cay và khó chịu do khô mắt, và bảo vệ mắt khỏi kích ứng thêm.",
+    "retrieved_ids": [
+      670,
+      665,
+      669,
+      666,
+      668
+    ],
+    "reason_context_relevance": "The context supplied is specifically about the pharmacological action and indications of Tears Naturale II, which aligns perfectly with the question asking about its effect.",
+    "reason_faithfulness": "The answer directly reflects the information provided in the context, stating that Tears Naturale II reduces tear or mucus secretion, is used for dry eye, provides temporary relief of irritation, and protects the eye from further irritation. No information is added that is absent from the context.",
+    "reason_correctness": "The answer accurately summarizes the drug's indicated use and mechanism as described in the context and consistent with medical knowledge about artificial tear preparations for dry eye."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Topramycin 0,3% Traphaco có chỉ định điều trị gì và cần lưu ý gì khi sử dụng cho phụ nữ mang thai hoặc đang cho con bú?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Topramycin 0,3% Traphaco được chỉ định để điều trị nhiễm khuẩn gây sưng đỏ. Khi sử dụng cho phụ nữ mang thai hoặc đang cho con bú, cần cân nhắc kỹ về nguy cơ và lợi ích trước khi sử dụng thuốc, tránh ảnh hưởng đến sức khỏe thai nhi hay trẻ bú mẹ.",
+    "retrieved_ids": [
+      692,
+      578,
+      1322,
+      690,
+      694
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp thông tin về thuốc Topramycin 0,3% và các lưu ý khi dùng trong thai kỳ và cho con bú; câu trả lời sử dụng đúng những thông tin này, vì vậy ngữ cảnh hoàn toàn liên quan.",
+    "reason_faithfulness": "Câu trả lời phản ánh chính xác nội dung trong ngữ cảnh: chỉ định điều trị nhiễm khuẩn gây sưng đỏ và khuyến cáo cân nhắc rủi ro/lợi ích khi dùng cho phụ nữ mang thai hoặc cho con bú, không thêm thông tin không có trong ngữ cảnh.",
+    "reason_correctness": "Thông tin y khoa về chỉ định (nhiễm khuẩn mắt gây sưng đỏ) và lời khuyên thận trọng trong thai kỳ và cho con bú là chính xác và phù hợp với khuyến cáo chung về thuốc aminoglycoside dạng nhỏ mắt."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Lotemax 0.5% Bausch & Lomb được sử dụng như thế nào và những tác dụng phụ nào có thể xảy ra khi sử dụng thuốc này?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.93,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Lotemax 0.5% Bausch & Lomb được sử dụng để điều trị viêm kết mạc mí mắt, nhãn cầu. Cách dùng: nhỏ 1-2 giọt vào túi kết mạc của bên mắt bị bệnh, 4 lần mỗi ngày. \n\nTác dụng phụ có thể xảy ra khi sử dụng thuốc này bao gồm: herpes simplex, tăng nhãn áp, giảm thị lực, tầm nhìn của mắt, đục thủy tinh thể dưới bao sau, nhiễm khuẩn mắt thứ cấp, và các phản ứng phụ khác của mắt như viêm kết mạc, giác mạc không bình thường, ban đỏ mí mắt, viêm giác - kết mạc, ngứa/đau/khó chịu ở mắt, gai thị, viêm màng bồ đào.",
+    "retrieved_ids": [
+      1111,
+      1113,
+      1112,
+      1114,
+      1109
+    ],
+    "reason_context_relevance": "The supplied context directly addresses the question on how to use Lotemax 0.5% eye drops and its possible side effects, making it fully relevant to the answer.",
+    "reason_faithfulness": "The answer accurately reflects the information provided in the context about dosage (1-2 drops, 4 times daily) and the listed adverse effects. It does not introduce information that is absent from the context, though it omits some additional details (e.g., contraindications, storage) that are present, but the core content remains faithful.",
+    "reason_correctness": "The medical statements regarding the administration regimen and the spectrum of potential adverse reactions (e.g., herpes simplex, increased intraocular pressure, cataract, secondary infection, ocular irritation) are consistent with the context and medically accurate."
+  },
+  {
+    "query": "Hỗn dịch xịt mũi Wizosone DK Pharma có thành phần gì và cần lưu ý gì khi sử dụng thuốc cho phụ nữ mang thai?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Hỗn dịch xịt mũi Wizosone DK Pharma có thành phần Mometason furoat 0.05mg. Khi sử dụng thuốc cho phụ nữ mang thai cần tuân theo chỉ định từ bác sĩ và chỉ nên dùng thuốc khi lợi ích vượt trội nguy cơ có thể xảy ra.",
+    "retrieved_ids": [
+      51,
+      48,
+      746,
+      53,
+      52
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp đầy đủ thông tin về thành phần của Hỗn dịch xịt mũi Wizosone và các lưu ý khi dùng cho phụ nữ mang thai, vì vậy nó hoàn toàn liên quan và hỗ trợ trả lời câu hỏi.",
+    "reason_faithfulness": "Câu trả lời chỉ dựa trên các thông tin có trong ngữ cảnh: thành phần Mometason furoat 0.05 mg và lời khuyên dùng cho phụ nữ mang thai phải tuân theo chỉ định bác sĩ, chỉ dùng khi lợi ích vượt trội nguy cơ. Không có thông tin nào được thêm vào hoặc sai lệch.",
+    "reason_correctness": "Câu trả lời đúng về mặt y khoa: thành phần Mometason furoat 0.05 mg là chính xác và khuyến cáo sử dụng cho phụ nữ mang thai (theo chỉ định bác sĩ, chỉ dùng khi lợi ích vượt trội) phù hợp với hướng dẫn trong ngữ cảnh và thực tiễn lâm sàng."
+  },
+  {
+    "query": "Thuốc xịt mũi Avamys 27.5mcg GSK được khuyến cáo sử dụng cho nhóm tuổi nào và liều lượng cụ thể cho trẻ em từ 2 đến 11 tuổi là bao nhiêu?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc xịt mũi Avamys 27.5mcg GSK được khuyến cáo sử dụng cho trẻ em từ 2 tuổi trở lên. Liều lượng cụ thể cho trẻ em từ 2 đến 11 tuổi là 1 nhát xịt (27,5 microgam) vào mỗi bên mũi, một lần mỗi ngày (tổng liều mỗi ngày là 55 microgam). Có thể tăng lên 2 nhát xịt vào mỗi bên mũi, một lần mỗi ngày (tổng liều mỗi ngày là 110 microgam) nếu bệnh nhân không đáp ứng đầy đủ với liều khởi đầu.",
+    "retrieved_ids": [
+      493,
+      1555,
+      3107,
+      492,
+      3106
+    ],
+    "reason_context_relevance": "The context is entirely about Avamys 27.5 µg dosage recommendations, which is precisely what the question asks. The answer uses this context, making it fully relevant.",
+    "reason_faithfulness": "The answer directly reflects the dosage information provided in the context for children aged 2‑11, including the initial dose of 1 spray per nostril (55 µg total) and the possible increase to 2 sprays per nostril (110 µg total) if needed. No information is added that is absent from the context.",
+    "reason_correctness": "The answer correctly states that Avamys 27.5 µg is recommended for children aged 2 years and older, and provides the correct dosage for the 2‑11 year age group as described in the source material."
+  },
+  {
+    "query": "Những tác dụng phụ nào có thể gặp phải khi sử dụng thuốc nhỏ mắt Ciprofloxacin 0.3% Dược 3-2?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Những tác dụng phụ có thể gặp phải khi sử dụng thuốc nhỏ mắt Ciprofloxacin 0.3% Dược 3-2 bao gồm:\n\n- Cảm giác khó chịu hoặc rát tại chỗ (thường gặp)\n- Cứng bờ mi, có vảy tinh thể, cảm giác có dị vật, ngứa, sung huyết giác mạc và có vị khó chịu sau khi nhỏ (ít gặp)\n- Nhuộm màu giác mạc, bệnh kết mạc, phản ứng dị ứng, sưng mí mắt, chảy nước mắt, sợ ánh sáng, thâm nhiễm giác mạc, buồn nôn và giảm thị lực (hiếm gặp)",
+    "retrieved_ids": [
+      1419,
+      1418,
+      1449,
+      1448,
+      1417
+    ],
+    "reason_context_relevance": "The question asks for possible adverse effects of Ciprofloxacin 0.3% eye drops, and the answer directly lists those effects taken from the context, making the context highly relevant.",
+    "reason_faithfulness": "The answer reproduces the side‑effect information that is explicitly present in the provided context without adding unsupported statements, thus it is fully faithful to the source.",
+    "reason_correctness": "The listed adverse effects (local irritation, eyelid crusting, foreign‑body sensation, conjunctival hemorrhage, corneal staining, allergic reactions, photophobia, reduced visual acuity, etc.) are consistent with known side‑effects of topical fluoroquinolones and match the information given in the context, so the medical answer is accurate."
+  },
+  {
+    "query": "Siro Seosacin Theragen Etex có thành phần gì và có những chống chỉ định nào đối với người bệnh khi sử dụng thuốc này?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.9,
+    "correctness": 5,
+    "answer": "Siro Seosacin Theragen Etex có thành phần chính là clenbuterol và ambroxol, được sử dụng để điều trị hen phế quản và viêm phế quản cấp tính hoặc mãn tính.\n\nChống chỉ định khi sử dụng thuốc này bao gồm:\n\n- Quá mẫn với các thành phần thuốc\n- Nhiễm độc giáp, phì đại dưới van động mạch chủ vô căn, hẹp van tim, rối loạn nhịp tim nhanh, ngoại tâm thu\n- Loét dạ dày tá tràng tiến triển\n\nCần thận trọng khi sử dụng thuốc cho người bệnh có các tình trạng như bệnh cường giáp, loét đường tiêu hóa, tăng huyết áp, suy tim, loạn nhịp tim, nhồi máu cơ tim, bệnh nhân đái tháo đường, suy thận nặng, người già, phụ nữ có thai hoặc cho con bú.",
+    "retrieved_ids": [
+      2329,
+      2327,
+      30348,
+      2328,
+      6335
+    ],
+    "reason_context_relevance": "The response directly addresses the question about the ingredients and contraindications of Siro Seosacin Theragen Etex, using the context as its source. The content is fully relevant to the query.",
+    "reason_faithfulness": "The answer accurately reflects information present in the provided context (components clenbuterol and ambroxol, main contraindications and cautions). It does not introduce any statements that are absent or contradictory to the context, though it does not list every detail, which is acceptable for faithfulness.",
+    "reason_correctness": "All medical statements provided (the two active ingredients and the listed contraindications/cautions) are correct according to the context and standard pharmacological knowledge. No incorrect or misleading information is present."
+  },
+  {
+    "query": "Thuốc Sedachor Haripharco có tác dụng gì và người dùng cần lưu ý những tác dụng phụ nào khi sử dụng thuốc này?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.9,
+    "correctness": 5,
+    "answer": "Thuốc Sedachor Haripharco có tác dụng hạ sốt, giảm đau, trị cảm cúm, nhức đầu. Người dùng cần lưu ý các tác dụng phụ như buồn nôn, nôn, giảm bạch cầu trung tính, giảm toàn thể huyết cầu, giảm bạch cầu, thiếu máu, suy gan (do hủy tế bào gan) khi dùng liều cao, kéo dài.",
+    "retrieved_ids": [
+      1790,
+      1788,
+      1789,
+      1791,
+      30379
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp đầy đủ thông tin về công dụng và tác dụng phụ của thuốc Sedachor Haripharco, vì vậy nó hoàn toàn liên quan và hỗ trợ việc trả lời câu hỏi.",
+    "reason_faithfulness": "Câu trả lời dựa trên các thông tin có trong ngữ cảnh (công dụng hạ sốt, giảm đau, trị cảm cúm, nhức đầu; các tác dụng phụ như buồn nôn, nôn, giảm bạch cầu, thiếu máu, suy gan). Không có thông tin nào được bịa ra, tuy nhiên câu trả lời không liệt kê hết tất cả các tác dụng phụ được nêu trong ngữ cảnh (ví dụ: phản ứng da nghiêm trọng, độc tính thận), nên không đạt 1.0.",
+    "reason_correctness": "Câu trả lời đưa ra các công dụng chính và một số tác dụng phụ quan trọng của thuốc đúng với nội dung y khoa trong ngữ cảnh. Các thông tin này là chính xác và không có sai lệch."
+  },
+  {
+    "query": "Viên ngậm Bảo Thanh Hoa Linh không đường có thành phần gì và liều dùng cho trẻ em từ 3 - 10 tuổi là bao nhiêu?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Viên ngậm Bảo Thanh Hoa Linh không đường có các thành phần như tinh dầu bạc hà, ô mai, gừng, viễn chí, qua lâu nhân, ngũ vị tử, bán hạ, cát cánh, phục linh, xuyên bối mẫu, tỳ bà diệp, mật ong, nhân sâm, thanh bì, mơ, khoản đông. Liều dùng cho trẻ em từ 3 - 10 tuổi là mỗi lần ngậm 1 viên, ngày 3 - 4 lần.",
+    "retrieved_ids": [
+      1992,
+      2867,
+      1990,
+      2430,
+      2574
+    ],
+    "reason_context_relevance": "The context directly contains the composition and dosage information that the question asks for, making it fully relevant.",
+    "reason_faithfulness": "The answer accurately reflects the information provided in the context, listing the same ingredients and the same dosage instructions for children aged 3-10 without adding or omitting any details.",
+    "reason_correctness": "The answer correctly states the ingredients of Viên ngậm Bảo Thanh Hoa Linh không đường and the recommended dosage for children aged 3‑10 as per the provided context, which aligns with standard usage instructions."
+  },
+  {
+    "query": "Thuốc Dexipharm 15mg có liều dùng cho trẻ em từ 6 đến 12 tuổi là bao nhiêu và có tác dụng phụ nào mà người dùng nên cảnh giác khi sử dụng không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.6,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Liều dùng của thuốc Dexipharm 15mg cho trẻ em từ 6 đến 12 tuổi là 15mg, 6 - 8 giờ/lần, tối đa 60mg/24 giờ. Một số tác dụng phụ có thể gặp phải khi sử dụng thuốc Dexipharm 15mg bao gồm chóng mặt, buồn nôn, đỏ bừng, mệt mỏi, nhịp tim nhanh, buồn ngủ nhẹ, rối loạn tiêu hóa, nổi mày đay. Người dùng nên cảnh giác với các tác dụng phụ này và thông báo ngay cho bác sĩ hoặc đến cơ sở y tế gần nhất nếu gặp phải bất kỳ tác dụng không mong muốn nào.",
+    "retrieved_ids": [
+      1699,
+      3545,
+      3670,
+      1700,
+      1701
+    ],
+    "reason_context_relevance": "The context is fully relevant to the question about dosage and side effects of Dexipharm 15mg, and the answer utilizes this context appropriately.",
+    "reason_faithfulness": "The answer directly reflects the information provided in the context, accurately stating the dosage for children aged 6-12 and listing the side effects that are mentioned in the context.",
+    "reason_correctness": "The dosage recommendation (15 mg every 6–8 hours, max 60 mg/24 h) and the listed adverse effects (dizziness, nausea, flushing, fatigue, rapid heartbeat, mild drowsiness, gastrointestinal disturbances, facial rash) are consistent with the provided information and medically accurate for Dexipharm (dextromethorphan)."
+  },
+  {
+    "query": "Thuốc Siro ho Hedera Tipharco giúp giảm đau rát họng do ho kéo dài, vậy liều dùng cho trẻ em dưới 6 tuổi là bao nhiêu và thời gian sử dụng thuốc tối thiểu là bao lâu?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Liều dùng cho trẻ em dưới 6 tuổi là 2,5ml x 2 lần/ngày. Thời gian sử dụng thuốc tối thiểu là 1 tuần đối với các trường hợp viêm đường hô hấp và 2 – 3 ngày sau khi hết triệu chứng để đảm bảo hiệu quả.",
+    "retrieved_ids": [
+      2334,
+      2675,
+      2337,
+      2332,
+      3628
+    ],
+    "reason_context_relevance": "The context supplied is fully relevant to the question, containing the exact dosage and duration details that the answer cites. Therefore the context is highly relevant to the response.",
+    "reason_faithfulness": "The answer directly reflects the information provided in the context regarding the dosage (2.5 ml twice daily for children under 6) and the recommended minimum treatment duration (at least 1 week for respiratory inflammation and an additional 2–3 days after symptom resolution). No extraneous or contradictory information is introduced.",
+    "reason_correctness": "The medical information in the answer is accurate according to the provided context and aligns with standard dosing recommendations for Siro ho Hedera Tipharco in children under 6 years old. The duration recommendation also matches the guidance given."
+  },
+  {
+    "query": "Thuốc SOSCough Ampharco chống chỉ định cho những đối tượng nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc SOSCough Ampharco chống chỉ định cho những đối tượng sau: \n\n- Quá mẫn cảm với các thành phần của thuốc.\n- Phụ nữ có thai hoặc đang cho con bú, trẻ em dưới 12 tuổi.\n- Bệnh nhân bệnh lý thận giai đoạn cuối hoặc bệnh nhân lọc máu có độ thanh thải creatinin < 10 ml/phút.\n- Bệnh nhân đang sử dụng các thuốc ức chế MAO, hoặc thuốc ức chế chọn lọc tái hấp thu serotonin hoặc mới ngưng các thuốc ức chế MAO trong vòng 14 ngày.",
+    "retrieved_ids": [
+      2299,
+      2298,
+      22571,
+      30060,
+      29712
+    ],
+    "reason_context_relevance": "The response addresses the exact question about contraindications for SOSCough Ampharco and uses the relevant portion of the context; the context is highly pertinent.",
+    "reason_faithfulness": "The answer directly mirrors the contraindications listed in the provided context without adding or omitting information, showing full alignment with the source.",
+    "reason_correctness": "All listed contraindications (hypersensitivity, pregnancy/breastfeeding, children under 12, severe renal impairment, and use of MAO inhibitors or recent MAO inhibitor discontinuation) match the medical information in the context and are accurate."
+  },
+  {
+    "query": "Liều dùng của thuốc nhỏ mắt Top-Pirex Nam Hà để điều trị nhiễm khuẩn nhẹ và vừa là gì?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 0.0,
+    "faithfulness": 1.0,
+    "correctness": 4,
+    "answer": "Liều dùng của thuốc nhỏ mắt Top-Pirex Nam Hà để điều trị nhiễm khuẩn nhẹ và vừa không được đề cập trong ngữ cảnh.",
+    "retrieved_ids": [
+      28451,
+      27614,
+      28373,
+      24913,
+      27524
+    ],
+    "reason_context_relevance": "The surrounding context contains dosage details for other antibiotics but none for the eye drop Top-Pirex Nam Hà, making the context irrelevant to the specific question.",
+    "reason_faithfulness": "The answer accurately reflects the provided context by stating that the dosage information for Top-Pirex Nam Hà is not mentioned, which is true and does not introduce any hallucinated content.",
+    "reason_correctness": "The answer correctly indicates that the requested dosage information is absent from the context and does not provide any incorrect medical information."
+  },
+  {
+    "query": "Liều dùng của Nhũ tương Kamistad-Gel N Stada cho người lớn là gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Liều dùng của Nhũ tương Kamistad-Gel N Stada cho người lớn là khoảng 1/2 cm chiều dài thuốc lấy ra từ ống thuốc, 3 lần mỗi ngày, vào các vùng sưng viêm và đau.",
+    "retrieved_ids": [
+      997,
+      996,
+      31079,
+      998,
+      995
+    ],
+    "reason_context_relevance": "The context supplied is specifically about the adult dosage of Kamistad‑Gel N, and the answer addresses exactly that question, making the context completely relevant.",
+    "reason_faithfulness": "The answer directly repeats the dosage information for adults that appears in the provided context (≈1/2 cm of gel, applied three times daily to inflamed areas), showing full alignment with the source.",
+    "reason_correctness": "According to the given instructions, the recommended adult dose is indeed about 1/2 cm of the gel applied three times per day to the affected sites. The answer reflects this recommendation accurately, so it is medically correct."
+  },
+  {
+    "query": "Thuốc xịt mũi Mome-Air 120 Sava được chỉ định cho đối tượng nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc xịt mũi Mome-Air 120 Sava được chỉ định cho người lớn và trẻ em từ 2 tuổi trở lên để điều trị các triệu chứng viêm mũi dị ứng theo mùa và viêm mũi dị ứng quanh năm, giảm tình trạng nghẹt mũi có liên quan đến viêm mũi dị ứng theo mùa, dự phòng triệu chứng viêm mũi dị ứng theo mùa và điều trị polyp mũi cho người lớn từ 18 tuổi trở lên.",
+    "retrieved_ids": [
+      79,
+      1218,
+      80,
+      1220,
+      81
+    ],
+    "reason_context_relevance": "The context discusses the indications of Mome‑Air 120 Sava, which is exactly what the question asks for.",
+    "reason_faithfulness": "The answer directly mirrors the indication information provided in the context, without adding or omitting any details.",
+    "reason_correctness": "The answer correctly lists all indicated patient groups (adults and children ≥2 years for allergic rhinitis treatment and congestion relief, prophylaxis for seasonal symptoms, and polyp treatment for adults ≥18 years) as stated in the source material."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Syseye Merap có tác dụng gì trong việc điều trị khô mắt và những tác dụng phụ nào có thể xảy ra khi sử dụng thuốc này?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 0.3333333333333333
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Syseye Merap điều trị và làm giảm cảm giác khó chịu do khô mắt. Các tác dụng phụ có thể xảy ra khi sử dụng thuốc này bao gồm nhức đầu, châm chích thoáng qua hoặc tầm nhìn bị mờ, đau mắt, cảm giác dị vật trong mắt, kích ứng mắt, đỏ mắt, tăng nhãn áp. Nếu gặp các tác dụng phụ, bệnh nhân cần ngừng sử dụng thuốc và hỏi ý kiến bác sĩ chuyên khoa mắt.",
+    "retrieved_ids": [
+      349,
+      350,
+      348,
+      352,
+      351
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về thuốc Syseye Merap, bao gồm chỉ định, cách dùng và tác dụng phụ; câu trả lời sử dụng những thông tin này để trả lời câu hỏi, nên mức độ liên quan là tối đa.",
+    "reason_faithfulness": "Câu trả lời phản ánh chính xác các thông tin trong ngữ cảnh về công dụng của thuốc (điều trị khô mắt) và liệt kê đầy đủ các tác dụng phụ được nêu trong phần \"Tác dụng phụ\" của ngữ cảnh.",
+    "reason_correctness": "Các thông tin y khoa trong câu trả lời (công dụng điều trị khô mắt và danh sách tác dụng phụ như nhức đầu, châm chích, tầm nhìn mờ, đau mắt, cảm giác dị vật, kích ứng, đỏ mắt, tăng nhãn áp) đều đúng và phù hợp với nội dung trong ngữ cảnh, không có thông tin sai lệch hay thiếu sót."
+  },
+  {
+    "query": "Thuốc nhỏ mắt V.Rohto For Kids có tác dụng gì và cần lưu ý gì khi sử dụng cho trẻ từ 4 tháng đến 15 tuổi?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt V.Rohto For Kids có tác dụng giảm mỏi mắt, đỏ mát, ngứa mắt. Khi sử dụng cho trẻ từ 4 tháng đến 15 tuổi, cần lưu ý dùng đúng liều quy định, không để mi mắt chạm vào miệng lọ, không dùng thuốc bị vẩn đục, và hỏi ý kiến bác sĩ hoặc dược sĩ nếu có bất kỳ triệu chứng nào bất thường.",
+    "retrieved_ids": [
+      548,
+      547,
+      550,
+      546,
+      549
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp đầy đủ thông tin về công dụng và lưu ý khi dùng thuốc cho trẻ từ 4 tháng đến 15 tuổi, vì vậy nó hoàn toàn liên quan và hỗ trợ việc trả lời câu hỏi.",
+    "reason_faithfulness": "Câu trả lời phản ánh đúng các thông tin trong ngữ cảnh: nêu tác dụng giảm mỏi mắt, đỏ mát, ngứa mắt và các lưu ý như dùng đúng liều, không để mi mắt chạm vào miệng lọ, không dùng thuốc bị vẩn đục, và cần hỏi ý kiến bác sĩ nếu có triệu chứng bất thường. Không có thông tin nào được thêm vào hoặc sai lệch.",
+    "reason_correctness": "Câu trả lời đúng về mặt y khoa: mô tả chính xác các tác dụng của thuốc và các lưu ý quan trọng khi sử dụng cho trẻ. Mặc dù không liệt kê chi tiết liều lượng (2‑3 giọt, 5‑6 lần/ngày), nhưng thông tin này đã được tóm tắt là \"dùng đúng liều quy định\", vẫn đáp ứng yêu cầu câu hỏi và không gây hiểu lầm."
+  },
+  {
+    "query": "Thuốc Mepoly Merap được sử dụng để điều trị bệnh gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.25
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.9,
+    "correctness": 5,
+    "answer": "Thuốc Mepoly Merap được sử dụng để điều trị các bệnh về mắt, mũi, tai như viêm kết mạc, viêm mí mắt, viêm mũi, viêm tai.",
+    "retrieved_ids": [
+      222,
+      224,
+      226,
+      221,
+      225
+    ],
+    "reason_context_relevance": "The provided context is entirely about the therapeutic uses of Mepoly Merap, making it directly relevant to the question.",
+    "reason_faithfulness": "The answer accurately reflects the main indications described in the context (eye, nose, and ear inflammations) without adding unsupported information, though it omits some specific sub‑indications mentioned.",
+    "reason_correctness": "The answer correctly states that Mepoly Merap is used to treat ocular, nasal, and auricular inflammatory conditions such as conjunctivitis, eyelid inflammation, rhinitis, and otitis, which aligns with the medical information in the context."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Daiticol Dược 3-2 có công dụng gì và cách sử dụng liều lượng của nó ra sao?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Daiticol Dược 3-2 được sử dụng để điều trị đỏ mắt, ngứa mắt, xốn mắt. Cách sử dụng: nhỏ vào mắt 2-3 giọt mỗi lần, mỗi ngày nhỏ vài lần. Lưu ý không sử dụng thuốc sau khi mở nắp 15 ngày và tham khảo ý kiến bác sĩ hoặc chuyên viên y tế để có liều dùng phù hợp.",
+    "retrieved_ids": [
+      841,
+      844,
+      842,
+      840,
+      843
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp đầy đủ thông tin về công dụng và cách dùng của thuốc Daiticol, và câu trả lời sử dụng đúng những thông tin này, nên ngữ cảnh hoàn toàn liên quan và hỗ trợ cho câu trả lời.",
+    "reason_faithfulness": "Câu trả lời chỉ đưa ra thông tin có trong ngữ cảnh: công dụng (điều trị đỏ mắt, ngứa mắt, xốn mắt), liều dùng (2-3 giọt mỗi lần, dùng vài lần mỗi ngày) và lưu ý không dùng sau 15 ngày, khuyến cáo tham khảo bác sĩ. Không có thông tin nào được thêm vào hoặc sai lệch.",
+    "reason_correctness": "Câu trả lời đáp ứng đúng yêu cầu của câu hỏi, đưa ra công dụng chính xác và hướng dẫn liều lượng dựa trên thông tin trong ngữ cảnh. Không có thông tin y khoa sai hoặc nguy hiểm; các khuyến cáo về thời gian sử dụng và việc tham khảo ý kiến bác sĩ cũng đúng."
+  },
+  {
+    "query": "Liều dùng của Siro ATessen An Thiên phụ thuộc vào yếu tố nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Liều dùng của Siro ATessen An Thiên phụ thuộc vào thể trạng và mức độ diễn tiến của bệnh.",
+    "retrieved_ids": [
+      2310,
+      19855,
+      15228,
+      15683,
+      21294
+    ],
+    "reason_context_relevance": "Ngữ cảnh chứa câu \"Liều dùng cụ thể tùy thuộc vào thể trạng và mức độ diễn tiến của bệnh\" nên câu trả lời hoàn toàn dựa trên nội dung này và có mức độ liên quan cao nhất.",
+    "reason_faithfulness": "Câu trả lời chỉ nêu rằng liều dùng phụ thuộc vào thể trạng và mức độ diễn tiến của bệnh, đúng như thông tin được nêu trong ngữ cảnh, không có thông tin sai lệch hay thêm thắt.",
+    "reason_correctness": "Về mặt y khoa, việc liều dùng của Siro ATessen An Thiên phụ thuộc vào thể trạng bệnh nhân và mức độ tiến triển của bệnh là thông tin chính xác và phù hợp với hướng dẫn sử dụng thuốc."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Sanlein 0.1% Santen hỗ trợ điều trị bệnh gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.25
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Sanlein 0.1% Santen hỗ trợ điều trị rối loạn biểu mô kết giác mạc.",
+    "retrieved_ids": [
+      418,
+      417,
+      95,
+      413,
+      414
+    ],
+    "reason_context_relevance": "The provided context explicitly states the therapeutic indication of the eye drop, which directly answers the question about which disease it treats.",
+    "reason_faithfulness": "The answer directly repeats the information from the context that Sanlein 0.1% is used to treat corneal epithelial disorders, without adding or omitting any details.",
+    "reason_correctness": "Medically, Sanlein 0.1% (sodium hyaluronate) is indicated for corneal epithelial disorders, matching the answer given."
+  },
+  {
+    "query": "Dung dịch xịt Tenafin 1% VCP được sử dụng để điều trị bệnh gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.2
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Dung dịch xịt Tenafin 1% VCP được sử dụng để điều trị nhiễm nấm ngoài da.",
+    "retrieved_ids": [
+      556,
+      554,
+      555,
+      552,
+      551
+    ],
+    "reason_context_relevance": "The provided context specifically describes the indication of Tenafin 1% spray, making it fully relevant to the question about what condition it treats.",
+    "reason_faithfulness": "The answer directly reflects the information in the context, which states that Tenafin 1% spray is used to treat superficial fungal infections.",
+    "reason_correctness": "Medically, terbinafine 1% spray (Tenafin) is indicated for the treatment of superficial (cutaneous) fungal infections such as tinea pedis, tinea cruris, and other dermatophyte or Candida infections, which aligns with the answer."
+  },
+  {
+    "query": "Liều khuyến cáo của thuốc nhỏ mắt Betoptic S Alcon cho người lớn là bao nhiêu lần mỗi ngày?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "2 lần mỗi ngày",
+    "retrieved_ids": [
+      1471,
+      1195,
+      1470,
+      1022,
+      1472
+    ],
+    "reason_context_relevance": "The provided context contains specific details about Betoptic S Alcon dosage for adults, making it fully relevant to the question.",
+    "reason_faithfulness": "The answer \"2 lần mỗi ngày\" directly matches the dosage information in the context, which states the recommended dose for adults is one drop twice daily.",
+    "reason_correctness": "Medical guidelines for Betoptic S (betaxolol) indicate the recommended adult dosing is one drop twice a day; the answer correctly reflects this."
+  },
+  {
+    "query": "Siro ho TW3 có thành phần gì và liều dùng cụ thể cho trẻ em từ 2 - 6 tuổi là bao nhiêu?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Siro ho TW3 có thành phần: Dextromethorphan HBr 30mg, Clorpheniramin maleat 7.98mg, Guaifenesin 300mg, Amoni Clorid 300mg. Liều dùng cho trẻ em từ 2 - 6 tuổi là 5ml (1 muỗng cà phê), uống 3 lần/ngày.",
+    "retrieved_ids": [
+      2400,
+      3802,
+      2398,
+      2382,
+      2340
+    ],
+    "reason_context_relevance": "The provided context is specifically about Siro ho TW3, its ingredients, and dosing instructions. The answer uses this information, making the context fully relevant to the question.",
+    "reason_faithfulness": "The answer directly reflects the information given in the context, listing the exact components and their amounts, and the dosage for children aged 2-6 as 5 ml (1 teaspoon) taken three times daily, which matches the context.",
+    "reason_correctness": "The answer correctly states the active ingredients (Dextromethorphan HBr 30 mg, Chlorpheniramine maleate 7.98 mg, Guaifenesin 300 mg, Ammonium chloride 300 mg) and the appropriate dosage for children 2‑6 years (5 ml three times daily), which aligns with standard dosing recommendations for this product."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Sanlein Mini 0.1% Santen được chỉ định trong những trường hợp nào và người sử dụng có thể gặp tác dụng phụ gì khi dùng thuốc này?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.9,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Sanlein Mini 0.1% Santen được chỉ định dùng trong các trường hợp rối loạn biểu mô kết giác mạc do các bệnh như hội chứng Sjögren, hội chứng Stevens-Johnson, các bệnh nội tại, và các bệnh do tác động từ bên ngoài như phẫu thuật, thuốc, chấn thương, mang kính sát tròng. Người sử dụng có thể gặp tác dụng phụ như nhìn mờ thoáng qua hoặc bất thường ở mắt sau khi nhỏ thuốc.",
+    "retrieved_ids": [
+      93,
+      91,
+      92,
+      416,
+      414
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về chỉ định và các lưu ý an toàn của thuốc Sanlein Mini 0.1% Santen, vì vậy nó hoàn toàn liên quan đến câu hỏi về trường hợp chỉ định và tác dụng phụ.",
+    "reason_faithfulness": "Câu trả lời dựa trên các thông tin trong ngữ cảnh về chỉ định (hội chứng Sjögren, Stevens‑Johnson, bệnh nội tại và nguyên nhân bên ngoài) và đề cập đến hiện tượng nhìn mờ hoặc bất thường ở mắt, điều này được nhắc tới trong ngữ cảnh như một cảnh báo khi có triệu chứng mắt. Không có thông tin nào được thêm vào ngoài những gì có trong ngữ cảnh, vì vậy mức độ trung thực cao.",
+    "reason_correctness": "Câu trả lời liệt kê đúng các bệnh và tình trạng được chỉ định dùng thuốc theo ngữ cảnh và mô tả một tác dụng phụ khả dĩ (nhìn mờ, bất thường) mà ngữ cảnh cũng đề cập tới. Thông tin này là chính xác về mặt y khoa và phù hợp với nội dung đã cho."
+  },
+  {
+    "query": "Liều dùng của thuốc nhỏ mắt Britop Bharat phụ thuộc vào yếu tố nào?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 0.0,
+    "faithfulness": 0.0,
+    "correctness": 1,
+    "answer": "Liều dùng của thuốc nhỏ mắt Britop Bharat phụ thuộc vào thể trạng và mức độ diễn tiến của bệnh.",
+    "retrieved_ids": [
+      1459,
+      229,
+      14125,
+      33106,
+      246
+    ],
+    "reason_context_relevance": "Ngữ cảnh chỉ mô tả các thuốc Azopt, Vitol, Phytok, Albiomin và Ganfort, không liên quan đến Britop Bharat, vì vậy ngữ cảnh không hỗ trợ câu hỏi.",
+    "reason_faithfulness": "Câu trả lời đề cập đến thuốc Britop Bharat nhưng ngữ cảnh cung cấp không chứa bất kỳ thông tin nào về thuốc này, do đó câu trả lời không dựa trên ngữ cảnh và là hallucination.",
+    "reason_correctness": "Câu trả lời đưa ra một khẳng định chung rằng liều dùng phụ thuộc vào thể trạng và mức độ bệnh, nhưng không có bằng chứng y khoa trong ngữ cảnh hoặc tài liệu tham khảo; do đó câu trả lời không chính xác và không đáng tin cậy."
+  },
+  {
+    "query": "Thuốc Cốm pha dung dịch uống Stacytine 200 GRA Stella được chỉ định cho những trường hợp nào và liều lượng sử dụng cho người lớn là bao nhiêu?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc Cốm pha dung dịch uống Stacytine 200 GRA Stella được chỉ định cho các trường hợp viêm phế quản, long đờm, và giải độc quá liều paracetamol. Liều lượng sử dụng cho người lớn là 200 mg (1 gói) x 3 lần/ngày.",
+    "retrieved_ids": [
+      2292,
+      2293,
+      2291,
+      2520,
+      2519
+    ],
+    "reason_context_relevance": "The context contains detailed information about the drug's indications and adult dosage, which directly matches the question; the answer draws solely from this relevant content.",
+    "reason_faithfulness": "The answer repeats the exact dosage (200 mg, 1 gói, 3 lần/ngày) and indications (viêm phế quản, long đờm, giải độc quá liều paracetamol) that are stated in the provided context, without adding unsupported information.",
+    "reason_correctness": "Medically, the indicated uses and adult dosing presented are accurate according to the context and standard prescribing information for acetylcysteine (Stacytine) 200 mg oral solution."
+  },
+  {
+    "query": "Dung dịch khí dung Ventolin Nebules 5mg GSK được sử dụng để điều trị gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.3333333333333333
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Dung dịch khí dung Ventolin Nebules 5mg GSK được sử dụng để điều trị hoặc ngăn ngừa co thắt phế quản.",
+    "retrieved_ids": [
+      1687,
+      1690,
+      1685,
+      1689,
+      1686
+    ],
+    "reason_context_relevance": "The context discusses the indication, usage, and pharmacology of Ventolin Nebules 5mg, making it fully relevant to the question about its therapeutic purpose.",
+    "reason_faithfulness": "The answer directly states that the Ventolin Nebules 5mg solution is used to treat or prevent bronchospasm, which matches the information provided in the context.",
+    "reason_correctness": "Medically, salbutamol (Ventolin) is a short‑acting β2‑agonist indicated for the treatment and prevention of bronchospasm in asthma and other obstructive airway diseases, so the answer is accurate."
+  },
+  {
+    "query": "Viên nén Paracetamol 500mg Thephaco có tác dụng gì?",
+    "retrieval": {
+      "recall@k": 0.0,
+      "precision@k": 0.0,
+      "mrr": 0.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Viên nén Paracetamol 500mg Thephaco có tác dụng hạ sốt, giảm đau đầu, đau cơ, đau gân khớp, đau lưng, đau răng, đau sau tiểu phẫu.",
+    "retrieved_ids": [
+      1708,
+      1707,
+      1704,
+      1706,
+      1705
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp chi tiết về công dụng của Paracetamol 500mg Thephaco, vì vậy nó rất liên quan và hỗ trợ trực tiếp cho câu trả lời về tác dụng của thuốc.",
+    "reason_faithfulness": "Câu trả lời chỉ liệt kê các tác dụng (hạ sốt, giảm đau đầu, đau cơ, đau gân khớp, đau lưng, đau răng, đau sau tiểu phẫu) mà hoàn toàn dựa trên thông tin trong ngữ cảnh, không có thông tin nào được thêm vào hoặc sai lệch.",
+    "reason_correctness": "Các tác dụng được nêu trong câu trả lời (hạ sốt, giảm các loại đau như đầu, cơ, khớp, lưng, răng và đau sau tiểu phẫu) là những chỉ định y tế chính xác và phù hợp với đặc tính của paracetamol."
+  },
+  {
+    "query": "Liều dùng thuốc Xoang Vạn Xuân cho người lớn và trẻ em là gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Liều dùng thuốc Xoang Vạn Xuân cho người lớn là 4 viên/lần x 2 - 3 lần/ngày, đợt dùng 6 - 8 tuần. Đối với trẻ em, liều dùng như sau: Trẻ em 3 - 5 tuổi: 1 viên/lần x 2 - 3 lần/ngày, Trẻ em 6 - 12 tuổi: 2 viên/lần x 2 - 3 lần/ngày.",
+    "retrieved_ids": [
+      481,
+      27284,
+      25331,
+      27524,
+      25737
+    ],
+    "reason_context_relevance": "The question asks for the dosage of Xoang Vạn Xuân, and the answer uses the exact relevant portion of the context that describes adult and pediatric dosing.",
+    "reason_faithfulness": "The answer directly repeats the dosage information for Xoang Vạn Xuân that is present in the provided context, without adding unrelated or fabricated details.",
+    "reason_correctness": "The dosage values (adult: 4 tablets 2‑3 times daily for 6‑8 weeks; children 3‑5 years: 1 tablet 2‑3 times daily; children 6‑12 years: 2 tablets 2‑3 times daily) correctly reflect the information given in the context and are medically appropriate as stated."
+  },
+  {
+    "query": "Thuốc mỡ tra mắt Oflovid Ophthalmic ointment Santen được chỉ định để điều trị bệnh gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.3333333333333333
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc mỡ tra mắt Oflovid Ophthalmic ointment Santen được chỉ định để điều trị các bệnh như viêm bờ mi, viêm túi lệ, lẹo, viêm kết mạc, viêm sụn mi, viêm giác mạc do các chủng vi khuẩn nhạy cảm với ofloxacin.",
+    "retrieved_ids": [
+      1212,
+      1216,
+      1214,
+      1410,
+      1211
+    ],
+    "reason_context_relevance": "Ngữ cảnh cung cấp thông tin chi tiết về chỉ định của thuốc Oflovid; câu trả lời sử dụng đúng những thông tin này, vì vậy ngữ cảnh hoàn toàn liên quan và hỗ trợ cho câu trả lời.",
+    "reason_faithfulness": "Câu trả lời liệt kê đầy đủ các chỉ định được nêu trong ngữ cảnh (viêm bờ mi, viêm túi lệ, lẹo, viêm kết mạc, viêm sụn mi, viêm giác mạc) và không thêm thông tin không có trong ngữ liệu, nên phản ánh trung thực nội dung.",
+    "reason_correctness": "Các bệnh được liệt kê là các chỉ định hợp lý và chính xác cho thuốc mỡ tra mắt Oflovid (ofloxacin 0.3%) dựa trên tài liệu dược phẩm và thực tiễn lâm sàng."
+  },
+  {
+    "query": "Thuốc Montiget 4mg được chỉ định để điều trị bệnh gì và cho đối tượng nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 0.8,
+    "correctness": 3,
+    "answer": "Thuốc Montiget 4mg được chỉ định để điều trị hen suyễn và viêm mũi dị ứng ở trẻ em từ 6 tháng tuổi trở lên.",
+    "retrieved_ids": [
+      1949,
+      1901,
+      1902,
+      1800,
+      1950
+    ],
+    "reason_context_relevance": "The answer directly addresses the question using information provided in the context about the indications of Montiget 4mg, making it fully relevant.",
+    "reason_faithfulness": "The answer correctly states that Montiget 4mg is indicated for asthma in children from 6 months, which aligns with the context. However, it overgeneralizes the indication for allergic rhinitis by stating it applies from 6 months onward, while the context specifies seasonal allergic rhinitis from 2 years and perennial allergic rhinitis from 6 months. Thus the answer is mostly faithful but not completely accurate.",
+    "reason_correctness": "The medical statement is partly correct: Montiget 4mg is indeed indicated for asthma in children from 6 months. For allergic rhinitis, the indication starts at 2 years for seasonal forms, not 6 months as the answer claims. Therefore the answer is partially correct but contains an age‑related inaccuracy."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Eyelight Vita DHG có ảnh hưởng đến khả năng lái xe và vận hành máy móc không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Eyelight Vita DHG không ảnh hưởng đến khả năng lái xe và vận hành máy móc.",
+    "retrieved_ids": [
+      962,
+      668,
+      776,
+      386,
+      830
+    ],
+    "reason_context_relevance": "The provided context contains specific information about Eyelight Vita DHG and its impact on driving and machine operation, making it fully relevant to the question.",
+    "reason_faithfulness": "The answer directly states that Eyelight Vita DHG does not affect driving or operating machinery, which matches the explicit statement in the context.",
+    "reason_correctness": "Based on the context, the claim that Eyelight Vita DHG does not affect the ability to drive or operate machinery is accurate and aligns with the medical information given."
+  },
+  {
+    "query": "Những tác dụng phụ chính của thuốc nhỏ mắt Alegysal 0.1% Santen là gì?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.2,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Những tác dụng phụ chính của thuốc nhỏ mắt Alegysal 0.1% Santen là viêm bờ mi, kích ứng mắt và xung huyết kết mạc.",
+    "retrieved_ids": [
+      1437,
+      1438,
+      1215,
+      417,
+      945
+    ],
+    "reason_context_relevance": "The context is specifically about the side effects of Alegysal 0.1% Santen, and the answer directly addresses that information.",
+    "reason_faithfulness": "The answer lists exactly the adverse reactions (viêm bờ mi, kích ứng mắt, xung huyết kết mạc) that are described in the provided context as the primary side effects of Alegysal 0.1%.",
+    "reason_correctness": "Medical literature in the context identifies viêm bờ mi, kích ứng mắt, and xung huyết kết mạc as the main reported adverse reactions, so the answer is medically accurate."
+  },
+  {
+    "query": "Thuốc nhỏ mắt Ciloxan Alcon có công dụng gì và liều dùng cụ thể cho loét giác mạc là như thế nào?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 0.5
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 5,
+    "answer": "Thuốc nhỏ mắt Ciloxan Alcon có công dụng điều trị loét giác mạc và viêm kết mạc. Liều dùng cụ thể cho loét giác mạc là:\n\n- Ngày thứ 1: 6 giờ đầu, 2 giọt mỗi 15 phút, thời gian còn lại 2 giọt mỗi 30 phút.\n- Ngày thứ 2: 2 giọt mỗi 1 giờ.\n- Ngày thứ 3-14: 2 giọt mỗi 4 giờ.",
+    "retrieved_ids": [
+      1541,
+      1543,
+      1542,
+      1546,
+      1545
+    ],
+    "reason_context_relevance": "The answer directly addresses the question using the information given in the context about Ciloxan's indication and dosage for corneal ulcer, showing full relevance.",
+    "reason_faithfulness": "The answer reproduces the dosing schedule for corneal ulcer exactly as described in the provided context, without adding or omitting information. No hallucinated content is present.",
+    "reason_correctness": "The dosing regimen (Day 1: 2 drops every 15 min for the first 6 h, then every 30 min; Day 2: 2 drops every hour; Days 3‑14: 2 drops every 4 h) matches standard recommendations for ciprofloxacin eye drops in bacterial corneal ulcer, and the answer correctly states the drug’s indication."
+  },
+  {
+    "query": "Thuốc Tinh dầu trẻ em Nasomom-4 Reliv có an toàn cho phụ nữ mang thai và cho con bú không, và có tác dụng phụ nào đã được báo cáo không?",
+    "retrieval": {
+      "recall@k": 1.0,
+      "precision@k": 0.4,
+      "mrr": 1.0
+    },
+    "context_relevance": 1.0,
+    "faithfulness": 1.0,
+    "correctness": 2,
+    "answer": "Thuốc Tinh dầu trẻ em Nasomom-4 Reliv an toàn cho phụ nữ mang thai và cho con bú. Hiện chưa có báo cáo về tác dụng phụ của thuốc này.",
+    "retrieved_ids": [
+      1208,
+      1209,
+      1478,
+      1479,
+      1430
+    ],
+    "reason_context_relevance": "The context supplied discusses the safety of Nasomom-4 Reliv during pregnancy and breastfeeding and reports on side‑effects, which are exactly the topics asked in the question.",
+    "reason_faithfulness": "The answer directly reflects the information provided in the context: the text states the product is safe for pregnant and lactating women and mentions no reported adverse effects, which the answer repeats verbatim.",
+    "reason_correctness": "Although the context claims the product is safe, medical literature generally advises caution with essential‑oil based products in pregnancy and lactation due to limited safety data. Stating the drug is definitively safe is therefore not fully supported by broader medical evidence, making the answer potentially misleading."
+  }
+]
